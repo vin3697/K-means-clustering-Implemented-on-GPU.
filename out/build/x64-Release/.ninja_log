@@ -1,0 +1,20 @@
+# ninja log v5
+65	1412	6676996230150453	CMakeFiles/Opencl-ex1.dir/Core/NumericException.cpp.obj	2ab15bb437744591
+13	1551	6676996232351354	CMakeFiles/Opencl-ex1.dir/Core/Error.cpp.obj	f37180a97f5792f1
+18	1557	6676996232361371	CMakeFiles/Opencl-ex1.dir/Core/CheckedCast.cpp.obj	ebc7e238b4523a0c
+21	1571	6676996232608066	CMakeFiles/Opencl-ex1.dir/Core/Memory.cpp.obj	1bf6f801cc7f7da
+8	1638	6676996233297283	CMakeFiles/Opencl-ex1.dir/Core/Assert.cpp.obj	e887aee872cb85d
+1415	1720	6676996234205218	CMakeFiles/Opencl-ex1.dir/Core/StrError.c.obj	e0908d347182e555
+1551	2630	6676996243175636	CMakeFiles/Opencl-ex1.dir/Core/Type.cpp.obj	db835b48dd4b3516
+48	2931	6676996245957252	CMakeFiles/Opencl-ex1.dir/Core/Time.cpp.obj	42de3a99acddca5e
+60	3187	6676996246988930	CMakeFiles/Opencl-ex1.dir/Core/WindowsError.cpp.obj	d276e0fafd6c72ec
+1559	3222	6676996249042325	CMakeFiles/Opencl-ex1.dir/Core/TimeSpan.cpp.obj	304c628ac3bfeda9
+28	4222	6676996258889747	CMakeFiles/Opencl-ex1.dir/Core/Image.cpp.obj	88f45d8061f8ca14
+25	4681	6676996263685882	CMakeFiles/Opencl-ex1.dir/Core/Exception.cpp.obj	d8e623bed2e24495
+1639	4863	6676996265599504	CMakeFiles/Opencl-ex1.dir/OpenCL/Event.cpp.obj	faa073d6b9f9e85b
+1572	5259	6676996269539843	CMakeFiles/Opencl-ex1.dir/OpenCL/Error.cpp.obj	846c977e0bd44f05
+1720	5524	6676996272224091	CMakeFiles/Opencl-ex1.dir/OpenCL/Device.cpp.obj	7a5b4633cfa4dd04
+2631	6063	6676996277626279	CMakeFiles/Opencl-ex1.dir/OpenCL/GetError.cpp.obj	63042a791ea4653e
+2	6135	6676996278325853	CMakeFiles/Opencl-ex1.dir/src/kmeans.cpp.obj	c957e03f46d24398
+2931	7931	6676996296299378	CMakeFiles/Opencl-ex1.dir/OpenCL/Program.cpp.obj	ebd6378005e76574
+7933	8392	6676996300815645	Opencl-ex1.exe	b02b8bfda0dc8df8
